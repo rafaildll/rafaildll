@@ -1,4 +1,4 @@
-<div size='20px'> 👋 Hey I'm Rafail, a self taught programmer. :smile: 
+<div size='20px'> 👋 Hey I'm Rafail, a self taught developer! :smile: 
 </div>
 
 <h2> About Me</h2>
