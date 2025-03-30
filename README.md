@@ -24,13 +24,3 @@
 <a href= https://github.com/rafaildll?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 <a href= https://github.com/rafaildll?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
 <a href= https://github.com/rafaildll?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg'> </a>
-  
-<br>
-<br>
-<br>
-  
-[![Rafail's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafaildll&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Rafail's github stats](https://github-readme-stats.vercel.app/api?username=rafaildll&show_icons=true&theme=tokyonight) | ![Rafail GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaildll&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaildll&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=rafaildll&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
