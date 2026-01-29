@@ -1,12 +1,12 @@
 <div size='20px'> 👋 Hey I'm Rafail, a self taught developer! :smile: 
 </div>
+<a href= "https://niouagency.com"></a>
 
 <h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 🔭 I’m currently working on private stuff!
-<a href= "https://niouagency.com"></a>
 
 <h2> Skills  </h2>
 <a href= https://github.com/rafaildll?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
